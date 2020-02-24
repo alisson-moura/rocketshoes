@@ -14,8 +14,7 @@ body {
     background: #191920 url(${background}) no-repeat center top;
     -webkit-font-smoothing: antialiased;
 }
-
-border-style, -moz-user-input, button {
+body, button {
     font: 14px Roboto, sans-serif;
 }
 
