@@ -33,10 +33,10 @@ Este projeto foi desenvolvido durante o [GoStack Bootcamp](https://rocketseat.co
 Para clonar e executar está aplicação você vai precisar das seguintes ferramentas: [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou maior + [Yarn v1.13][yarn]. Na linha de comando basta executar:
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/lukemorales/react-rocketshoes
+$ git clone https://github.com/alisson-moura/rocketshoes
 
 # Entrar na pasta/diretorio do repositório
-$ cd react-rocketshoes
+$ cd rocketshoes
 
 # Instalar dependencias
 $ yarn install
