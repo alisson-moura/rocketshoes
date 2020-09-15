@@ -11,7 +11,7 @@
 ![App Screenshot](https://github.com/alisson-moura/rocketshoes/blob/master/assets/rocketshoes01.png)
 
 ## :rocket: Tecnologias
-Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as seguintes tecnologias:
+Este projeto foi desenvolvido durante o [GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as seguintes tecnologias:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Redux](https://redux.js.org/)
@@ -28,4 +28,24 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 -  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
 -  [json-server](https://github.com/typicode/json-server)
 -  [Reactotron](https://infinite.red/reactotron)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+
+## :information_source: Como utilizar
+Para clonar e executar está aplicação você vai precisar das seguintes ferramentas: [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou maior + [Yarn v1.13][yarn]. Na linha de comando basta executar:
+```bash
+# Clonar o repositório
+$ git clone https://github.com/lukemorales/react-rocketshoes
+
+# Entrar na pasta/diretorio do repositório
+$ cd react-rocketshoes
+
+# Instalar dependencias
+$ yarn install
+
+# Iniciar o aplicativo
+$ yarn start
+````
+
+---
+
+## :memo: Licença
+Este projeto está sobre a licença MIT.
