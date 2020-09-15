@@ -30,7 +30,7 @@ Este projeto foi desenvolvido durante o [GoStack Bootcamp](https://rocketseat.co
 -  [Reactotron](https://infinite.red/reactotron)
 
 ## :information_source: Como utilizar
-Para clonar e executar está aplicação você vai precisar das seguintes ferramentas: [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou maior + [Yarn v1.13][yarn]. Na linha de comando basta executar:
+Para clonar e executar está aplicação você vai precisar das seguintes ferramentas: [Git](https://git-scm.com), Node.js v10.16 ou maior + Yarn v1.13. Na linha de comando basta executar:
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/alisson-moura/rocketshoes
