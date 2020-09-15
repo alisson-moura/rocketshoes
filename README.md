@@ -1,5 +1,5 @@
 <h1>
-    <img alt="React RocketShoes" src="https://github.com/[alisson-moura]/[rocketshoes]/blob/[master]/assests/rocketshoes.jpg?raw=true" />
+    <img alt="React RocketShoes" src="https://github.com/alisson-moura/rocketshoes/blob/master/assets/rocketshoespng.png" />
     Rocketshoes
     <br>
 </h1>
