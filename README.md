@@ -4,6 +4,8 @@
     React RocketShoes
 </h1>
 
-## Ecommerce feito durante o bootcamp 10.0 da rocketseat para aprender conceitos de Redux e Redux-Saga
+<h4 align="center">
+    Ecommerce feito durante o bootcamp 10.0 da Rocketseat para aprender conceitos de  React e Redux.
+</h4>
 
 
